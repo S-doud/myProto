@@ -14,4 +14,3 @@ message QueryOrderReply {
   string result_code = 1;
   string result_info = 2;
 }
-
